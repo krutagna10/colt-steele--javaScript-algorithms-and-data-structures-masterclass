@@ -1,0 +1,2 @@
+You can follow the course in any order, just need to complete the prerequisites.
+But it is better if linear approach is followed. 
